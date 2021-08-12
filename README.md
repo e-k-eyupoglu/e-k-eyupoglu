@@ -35,7 +35,7 @@
 <p align="center"> 
 <a><img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height=25></a> 
 <a><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height=25></a> <br>
-<a href="https://github.com/e-k-eyupoglu"><img align=center src="https://github-readme-stats.vercel.app/api/wakatime?username=e-k-eyupoglu&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e"></a>
+<a href="https://github.com/e-k-eyupoglu"><img align=center src="https://github-readme-stats.vercel.app/api/wakatime?username=ekeyupoglu&theme=custom&bg_color=111111&text_color=ffffff&icon_color=fe422e&title_color=fe422e&border_color=fe422e"></a>
 </p>
 <hr>
 <h2 align='center'>Communication
