@@ -13,7 +13,7 @@
 <hr>
 <h2 align='center'>Media</h2>
 <p align="center">
-<a href="https://linktr.ee/e.k.eyupoglu" ><img src="https://img.shields.io/static/v1?label=&message=Linktree&style=flat-square&logo=linktree&labelColor=34cc8c&color=34cc8c&logoColor=ffffff" height=25></a>
+<a href="https://linktr.ee/e.k.eyupoglu" ><img src="https://img.shields.io/static/v1?label=&message=Linktree&style=flat-square&logo=linktree&labelColor=34cc8c&color=34cc8c&logoColor=ffffff" height=25></a> <br>
 <a href="https://www.codewars.com/users/e-k-eyupoglu" ><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" height=25></a>
 <a href="https://www.instagram.com/e.k.eyupoglu/" ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height=25></a>
 <a href="https://stackoverflow.com/users/15170972/hirelax" ><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height=25></a>
