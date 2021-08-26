@@ -1,4 +1,4 @@
-[![Social banner for myygunduz](https://github.com/e-k-eyupoglu/e-k-eyupoglu/blob/main/banner.png)](https://myygyazilim.com)
+[![Social banner for myygunduz](https://github.com/e-k-eyupoglu/e-k-eyupoglu/blob/main/banner.png)]
 <hr>
 <h2 align='center'>Stats</h2>
 <p align="center">
@@ -28,7 +28,7 @@
 <p align="center"> 
 <a><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25></a> 
 <a><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height=25></a><br>
-<a href="https://github.com/myygunduz"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=myygunduz&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe"></a>  
+<a href="https://github.com/e-k-eyupoglu"><img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-k-eyupoglu&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=custom&bg_color=111111&text_color=ffffff&icon_color=7d8cbe&title_color=7d8cbe&border_color=7d8cbe"></a>  
 </p>
 <hr>
 <h2 align='center'>Other
